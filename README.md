@@ -1,3 +1,4 @@
+npm instal
 PRIVATE_KEY-
 RPC_ENDPOINT-
 
