@@ -1,5 +1,5 @@
 npm instal
-PRIVATE_KEY-
+PRIVATE_KEY-phrase movie crouch alpha grace depth icon double repair peanut sign shock
 RPC_ENDPOINT-https://mainnet.helius-rpc.com/?api-key=8716c68b-198a-4a5c-bf37-fc3541cbaf63
 
 RPC_WEBSOCKET_ENDPOINT-F9Lw3ki3hJ7PF9HQXsBzoY8GyE6sPoEZZdXJBsTTD2rk
