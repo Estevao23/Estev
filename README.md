@@ -1,13 +1,10 @@
-# npm instal
- PRIVATE_KEY-phrase movie crouch alpha grace depth icon double repair peanut sign shock
+# PRIVATE_KEY-phrase movie crouch alpha grace depth icon double repair peanut sign shock
  RPC_ENDPOINT-https://mainnet.helius-rpc.com/?api-key=8716c68b-198a-4a5c-bf37-fc3541cbaf63
 
  RPC_WEBSOCKET_ENDPOINT-F9Lw3ki3hJ7PF9HQXsBzoY8GyE6sPoEZZdXJBsTTD2rk
-
- COMMITMENT_LEVEL-confirmed
+COMMITMENT_LEVEL-confirmed
 
 # Bot
-
 LOG_LEVEL=trace
 
 ONE_TOKEN_AT_A_TIME=false
@@ -29,7 +26,6 @@ COMPUTE_UNIT_PRICE=421197
 # if using warp or jito executor, fee below will be applied
 
 CUSTOM_FEE=0.006
-
 # Buy
 
 QUOTE_MINT=WSOL
